@@ -16,4 +16,4 @@ These classes are for automating different scenarios related to shopping on a we
 12) BaseDriver and Utilities
 
 ## Demo
-<img src=" https://github.com/TunahanBoyaci/E-commerce-Website-Automated-Testing-Suite/blob/main/src/05.10.2023_13.10.45_REC%20-%20Trim.gif">
+<img src="https://github.com/TunahanBoyaci/E-commerce-Website-Automated-Testing-Suite/blob/main/src/05.10.2023_13.10.45_REC%20-%20Trim.gif">
